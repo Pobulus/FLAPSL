@@ -4,7 +4,7 @@
 
 Copyright (C) [year] [full name] [email]
 
-a copyright notice is optional.
+A copyright notice is optional.
 -------------------------------------------------------------------------------
 If you want to ammend this license, do it and change the name, or suggest chan-
 ges on github.
@@ -21,4 +21,3 @@ THIS SOFTWARE IS DISTRIBUTED "AS IS" AND THE AUTHOR OFFERS NO WARRANTY UPON IT.
 THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE AT ALL UNDER ANY CIRCUMSTANCE, INCLUDI-
 NG BUT NOT LIMITED TO; DATA LOSS, MONITARY LOSS, PREFORMENCE DROPS OR ANY OTHER
 DAMAGE.
-
