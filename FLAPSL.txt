@@ -1,0 +1,13 @@
+       FINN'S LITERALLY ANYTHING PUBLIC SOFTWARE LICENCE
+                     "the simple license"
+                    Version 0, January 2019
+ 
+Copyright (C) 2019 Finn Olmsted flapsl@protonmail.ch
+
+If you want to ammend this license, do it and change the name.
+ 
+          FINN'S LITERALLY ANYTHING PUBLIC SOFTWARE LICENCE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+ 0. Do literally anything with this software, it's yours. Redistribue and fork to your heart's content
+ 1. If making modifications to it, change the name of the program 
