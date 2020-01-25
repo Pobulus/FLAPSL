@@ -1,5 +1,5 @@
          FOSS LITERALLY ANYTHING PUBLIC SOFTWARE LICENCE
-                     "the simple license"
+                     
                   Version 0.1, January 2019
 
 Copyright (C) [year] [full name] [email]
